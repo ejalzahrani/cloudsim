@@ -10,5 +10,8 @@
 	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/commons-math3-3.6.1/commons-math3-3.6.1-tests.jar"/>
 	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar"/>
 	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/opencsv-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eidah/git/cloudsim/junit-4.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
